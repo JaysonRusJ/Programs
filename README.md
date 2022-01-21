@@ -9,3 +9,7 @@ This assignment relies on the Coverage programs.
 
 ## Program 4
 This assignment relies on the Circles programs. 
+
+Git: JaysonRusJ
+## Lab1
+This lab is about forking a repo. Cloning it to a local computer. And adding files to some of the directories.

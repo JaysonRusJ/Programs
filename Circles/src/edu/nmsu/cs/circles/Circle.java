@@ -37,7 +37,7 @@ public abstract class Circle
 	 **/
 	public double scale(double factor)
 	{
-		radius = radius + factor;
+		radius = radius * factor;
 		return radius;
 	}
 
@@ -66,4 +66,4 @@ public abstract class Circle
 	 **/
 	public abstract boolean intersects(Circle other);
 
-}
+} // close class Circle
